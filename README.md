@@ -3,7 +3,7 @@
 
 ##Usage
 ```javascript
-var trimObject = require('object-trim');
+var objectTrim = require('object-trim');
 
 var obj = {
   "this": "Object",
@@ -12,7 +12,7 @@ var obj = {
   "big": "ya know?"
 };
 
-var newObj = trimObject(obj, 2);  // { "this": "Object", "is": "just" }
+var newObj = objectTrim(obj, 2);  // { "this": "Object", "is": "just" }
 ```
 
 ##License
