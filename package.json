@@ -1,0 +1,19 @@
+{
+  "name": "object-trim",
+  "version": "0.0.1",
+  "description": "Trim your objects down",
+  "main": "object-trim.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/taterbase/node-object-trim"
+  },
+  "keywords": [
+    "trim",
+    "object"
+  ],
+  "author": "taterbase",
+  "license": "MIT"
+}
