@@ -2,7 +2,7 @@
 *Sometimes objects are too big...*
 
 ##Usage
-
+```javascript
 var trimObject = require('object-trim');
 
 var obj = {
@@ -13,6 +13,7 @@ var obj = {
 };
 
 var newObj = trimObject(obj, 2);  // { "this": "Object", "is": "just" }
+```
 
 ##License
 MIT
