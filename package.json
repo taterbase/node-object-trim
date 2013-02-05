@@ -1,6 +1,6 @@
 {
   "name": "object-trim",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Trim your objects down",
   "main": "object-trim.js",
   "scripts": {
